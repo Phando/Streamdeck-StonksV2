@@ -1,0 +1,3 @@
+[submodule "streamdeck-api"]
+	path = streamdeck-api
+	url = https://Phando@github.com/elgatosf/streamdeck-javascript-sdk
